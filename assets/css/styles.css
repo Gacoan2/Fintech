@@ -1,0 +1,51 @@
+h2, h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.intro {
+    background-image: url(../images/backgroung.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+}
+
+.logo {
+    font-weight: 400;
+    font-size: 48px;
+}
+
+.nav-item a {
+    font-size: 20px;
+}
+
+img {
+    filter: saturate(50%);
+    margin-top: 5px;
+    border-radius: 10px;
+    }
+
+.my-title {
+    font-weight: 700;
+}
+
+.subtitle {
+    font-weight: 600;
+}
+
+.intro {
+    min-height: 60vh;
+}
+
+.valores {
+    min-height: 60vh;    
+}
+    
+.final {
+    background-image: url(../images/fim.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+}
+
